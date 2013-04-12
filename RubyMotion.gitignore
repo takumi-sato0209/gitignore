@@ -1,0 +1,19 @@
+.repl_history
+build
+tags
+
+# Editor files
+.DS_Store
+nbproject
+.redcar
+*.swp
+*.swo
+~
+.eprj
+vendor/Pods
+*.nib
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
